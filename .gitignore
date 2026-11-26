@@ -1,0 +1,11 @@
+# Build output
+bin/
+obj/
+*.user
+.vs/
+
+# Release builds go to GitHub Releases, not the repo
+dist/
+
+# Local tooling
+.claude/
