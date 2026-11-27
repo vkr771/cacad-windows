@@ -99,8 +99,8 @@ Each can be turned off in Settings. Notification mirroring reads your notificati
 You need Windows 10 or 11 and the [.NET 8 SDK](https://dotnet.microsoft.com/download/dotnet/8.0).
 
 ```powershell
-git clone <this repository>
-cd cacad
+git clone https://github.com/vkr771/cacad-windows.git
+cd cacad-windows
 dotnet run --project src/Cacad.App
 ```
 
