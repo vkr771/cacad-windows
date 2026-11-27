@@ -128,6 +128,7 @@ Everything on the island is drawn in code with [SkiaSharp](https://github.com/mo
 
 - [@vkr771](https://github.com/vkr771)
 - [@harshadnaidu221](https://github.com/harshadnaidu221)
+- [@tigergamingstuckrd-sudo](https://github.com/tigergamingstuckrd-sudo)
 
 ## Contributing
 
