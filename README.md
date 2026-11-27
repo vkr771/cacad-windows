@@ -124,6 +124,11 @@ They land in `dist\v1.3.0\`. To publish an update, create a GitHub release tagge
 
 Everything on the island is drawn in code with [SkiaSharp](https://github.com/mono/SkiaSharp): no image assets apart from the fonts.
 
+## Team
+
+- [@vkr771](https://github.com/vkr771)
+- [@harshadnaidu221](https://github.com/harshadnaidu221)
+
 ## Contributing
 
 Issues and pull requests are welcome. For a bigger change, open an issue first so we can talk it through. Please keep new artwork original (no characters, logos or art from existing franchises).
